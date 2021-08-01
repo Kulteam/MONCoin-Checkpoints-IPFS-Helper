@@ -1,5 +1,5 @@
 {
-  "name": "turtlecoin-checkpoints-ipfs-helper",
+  "name": "MONCoin-Checkpoints-IPFS-Helper",
   "version": "0.0.2",
   "description": "MONCoin Checkpoints IPFS Daemon Helper",
   "main": "index.js",
@@ -18,15 +18,15 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/turtlecoin/checkpoints-ipfs-helper/issues"
+    "url": "https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/checkpoints-ipfs-helper.git"
+    "url": "git+https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper.git"
   },
-  "homepage": "https://github.com/turtlecoin/checkpoints-ipfs-helper/#readme",
+  "homepage": "https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper/#readme",
   "engineStrict": true,
-  "author": "The MONCoin Developers",
+  "author": "The TurtleCoin Developers",
   "license": "GPL-3.0",
   "dependencies": {
     "colors": "^1.4.0",
