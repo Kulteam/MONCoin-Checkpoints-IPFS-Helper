@@ -1,6 +1,6 @@
-# TurtleCoin®: Checkpoints IPFS Helper
+# MONCoin®: Checkpoints IPFS Helper
 
-This project is designed to make it very easy to help with the distribution of TurtleCoin® checkpoints via [IPFS](https://ipfs.io). It is designed to run as a service with an in-built IPFS node where the latest checkpoints hash is retrieved, and locally pinned. Any old pins are removed as needed. The more people that run IPFS nodes with the checkpoints file, the faster everyone else can retrieve it.
+This project is designed to make it very easy to help with the distribution of MONCoin® checkpoints via [IPFS](https://ipfs.io). It is designed to run as a service with an in-built IPFS node where the latest checkpoints hash is retrieved, and locally pinned. Any old pins are removed as needed. The more people that run IPFS nodes with the checkpoints file, the faster everyone else can retrieve it.
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ npm test
 
 ## Author
 
-👤 **The TurtleCoin Developers**
+👤 **The MONCoin Developers**
 
 * Twitter: [@_turtlecoin](https://twitter.com/_turtlecoin)
 * Github: [@turtlecoin](https://github.com/turtlecoin)
@@ -55,6 +55,6 @@ npm test
 
 ## 📝 License
 
-Copyright © 2019 [The TurtleCoin Developers](https://github.com/turtlecoin).
+Copyright © 2019 [The MONCoin Developers](https://github.com/turtlecoin).
 
 This project is [GPL-3.0](https://github.com/turtlecoin/ipfs-cf-checkpointer-node/blob/master/LICENSE) licensed.
