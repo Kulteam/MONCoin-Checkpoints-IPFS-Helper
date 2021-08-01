@@ -13,8 +13,8 @@ This project is designed to make it very easy to help with the distribution of M
 ## Install
 
 ```sh
-git clone https://github.com/turtlecoin/checkpoints-ipfs-helper
-cd checkpoints-ipfs-helper
+git clone https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper
+cd MONCoin-Checkpoints-IPFS-Helper
 npm install
 ```
 
@@ -47,14 +47,10 @@ npm test
 
 ## Author
 
-👤 **The MONCoin Developers**
+👤 **Special Thanks to TurtleCoin Developers**
 
 * Twitter: [@_turtlecoin](https://twitter.com/_turtlecoin)
-* Github: [@turtlecoin](https://github.com/turtlecoin)
-
 
 ## 📝 License
 
-Copyright © 2019 [The MONCoin Developers](https://github.com/turtlecoin).
-
-This project is [GPL-3.0](https://github.com/turtlecoin/ipfs-cf-checkpointer-node/blob/master/LICENSE) licensed.
+This project is [GPL-3.0](https://github.com/Kulteam/MONCoin-Checkpoints-IPFS-Helper/blob/master/LICENSE) licensed.
